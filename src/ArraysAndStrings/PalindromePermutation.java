@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class PalindromePermutation {
 	private static boolean isPermutaionofPalindrome(String s) {
 /* o(n) time and o(n) space extra DS- hashmap */
-		int count = 0;
+		int count = 10;
 		// HashMap<Character, Integer> maps = new HashMap<>();
 		// for (int i = 0; i < s.length(); i++) {
 		// char c = Character.toLowerCase(s.charAt(i));
